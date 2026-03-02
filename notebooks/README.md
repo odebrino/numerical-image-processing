@@ -9,4 +9,3 @@ Each notebook includes:
 - full exercise context in English
 - implementation TODO cells
 - interpretation/theory prompts
-- final self-check section
