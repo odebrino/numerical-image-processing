@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (mantem apenas .gitkeep)
+outputs/**
+!outputs/
+!outputs/te01/
+!outputs/te02/
+!outputs/te03/
+!outputs/**/.gitkeep
+
+# Scripts antigos com possiveis respostas
+archive/scripts_originais/*.py
+!archive/scripts_originais/README.md
+
+# Outputs antigos arquivados localmente
+archive/generated_outputs/
+
+# Professor statements (private/local only)
+archive/professor_pdfs/
