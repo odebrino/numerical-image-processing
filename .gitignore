@@ -27,6 +27,7 @@ outputs/**
 !outputs/te01/
 !outputs/te02/
 !outputs/te03/
+!outputs/te04/
 !outputs/**/.gitkeep
 
 # Scripts antigos com possiveis respostas

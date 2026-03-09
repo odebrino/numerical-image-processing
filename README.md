@@ -14,15 +14,18 @@ Public training repository for image processing practical sessions.
 |-- notebooks/
 |   |-- 01_te01_fundamentals_fft.ipynb
 |   |-- 02_te02_contrast_noise_video.ipynb
-|   `-- 03_te03_segmentation_thresholding.ipynb
+|   |-- 03_te03_segmentation_thresholding.ipynb
+|   `-- 04_te04_morphology_connected_components.ipynb
 |-- data/
 |   |-- te01/
 |   |-- te02/
-|   `-- te03/
+|   |-- te03/
+|   `-- te04/
 |-- outputs/
 |   |-- te01/
 |   |-- te02/
-|   `-- te03/
+|   |-- te03/
+|   `-- te04/
 ```
 ## Quick Setup
 
